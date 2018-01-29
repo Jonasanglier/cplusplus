@@ -6,8 +6,12 @@
 double exol(double rayon)
 {
 	double aire;
-	aire = 3.14 * rayon * rayon
+	aire = 3.14 * rayon * rayon;
 		return aire;
 }
 #endif // MY_HEADER_HPP
- 
+void exo2(short a, short b)
+{
+	short y;
+	y = a < b && !a;
+ }
